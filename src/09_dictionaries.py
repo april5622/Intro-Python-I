@@ -47,11 +47,11 @@ print(waypoints)
 
 # YOUR CODE HERE
 
-modified_dict = {
-    'lat': 43, 'lon':-130, 'name': "not a real place"
-}
 
 
 
 # Write a loop that prints out all the field values for all the waypoints
 # YOUR CODE HERE
+
+for x in waypoints:
+    print(x)
